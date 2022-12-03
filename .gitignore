@@ -1,1 +1,3 @@
 diskr_env
+.env
+diskr/__pycache__
